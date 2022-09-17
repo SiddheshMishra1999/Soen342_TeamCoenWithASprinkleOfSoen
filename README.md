@@ -14,5 +14,10 @@ Features of the platform
 - tool 2
 
 ## Team members
-- Ahmed Rebei @ahmedrebei
+- Siddhesh Mishra @ahmedrebei
 - Jonathan Perlman @Jonman5
+- Natheshan Rasaiah @
+- Amanda Marsillo @
+- Charlie Huang @CharlieHuang98
+- Joey Moarbes @
+- Ankita Ingle @
