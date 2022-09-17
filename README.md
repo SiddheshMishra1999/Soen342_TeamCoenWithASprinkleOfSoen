@@ -15,4 +15,4 @@ Features of the platform
 
 ## Team members
 - Ahmed Rebei @ahmedrebei
-- person @person
+- Jonathan Perlman @Jonman5
