@@ -14,7 +14,7 @@ Features of the platform
 - tool 2
 
 ## Team members
-- Siddhesh Mishra @ahmedrebei
+- Siddhesh Mishra @
 - Jonathan Perlman @Jonman5
 - Natheshan Rasaiah @
 - Amanda Marsillo @
