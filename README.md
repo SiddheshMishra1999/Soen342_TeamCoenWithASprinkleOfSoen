@@ -21,3 +21,4 @@ Features of the platform
 - Charlie Huang @CharlieHuang98
 - Joey Moarbes @
 - Ankita Ingle @ingleankita	
+- Kevin Prom @GryPr
