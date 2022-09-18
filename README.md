@@ -19,6 +19,6 @@ Features of the platform
 - Natheshan Rasaiah @
 - Amanda Marsillo @
 - Charlie Huang @CharlieHuang98
-- Joey Moarbes @
+- Joey Moarbes @JoeyMoarbes
 - Ankita Ingle @ingleankita	
 - Kevin Prom @GryPr
