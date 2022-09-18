@@ -6,7 +6,7 @@ Creating an E-learning platform
 ## Objective
 Here goes the objectives of the project
 
-## features
+## Features
 Features of the platform
 
 ## Tools and Techniques
