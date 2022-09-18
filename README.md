@@ -16,7 +16,7 @@ Features of the platform
 ## Team members
 - Siddhesh Mishra @
 - Jonathan Perlman @Jonman5
-- Natheshan Rasaiah @
+- Natheshan Rasaiah @NateTheL8
 - Amanda Marsillo @
 - Charlie Huang @CharlieHuang98
 - Joey Moarbes @JoeyMoarbes
