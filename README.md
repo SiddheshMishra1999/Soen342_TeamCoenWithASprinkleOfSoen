@@ -20,4 +20,4 @@ Features of the platform
 - Amanda Marsillo @
 - Charlie Huang @CharlieHuang98
 - Joey Moarbes @
-- Ankita Ingle @
+- Ankita Ingle @ingleankita	
