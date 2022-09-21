@@ -14,11 +14,12 @@ Features of the platform
 - tool 2
 
 ## Team members
-- Siddhesh Mishra @
+- Siddhesh Mishra @SiddheshMishra1999
 - Jonathan Perlman @Jonman5
 - Natheshan Rasaiah @NateTheL8
-- Amanda Marsillo @
+- Amanda Marsillo @ama363
 - Charlie Huang @CharlieHuang98
 - Joey Moarbes @JoeyMoarbes
 - Ankita Ingle @ingleankita	
 - Kevin Prom @GryPr
+- Samdarshi Tiwari @samdarshihawk
